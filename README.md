@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GiftXXVI
 - 👀 I’m interested in C# & Python.
-- 🌱 I’m currently learning both of the above.
+- 🌱 I’m continuously learning both of the above.
 - 💞️ I’m looking to collaborate on web projects.
 - 📫 How to reach me: to be communicated.
 
