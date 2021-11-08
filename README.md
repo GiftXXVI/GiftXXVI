@@ -1,8 +1,8 @@
 ### Intro
 
 - 👋 Hi, I’m @GiftXXVI
-- 👀 I’m interested in C#  & Python 
-- 🌱 I’m continuously learning both of the above.
+- 👀 I code in C#  & Python 
+- 🌱 I’m continuously learning Python.
 - 💞️ I’m looking to collaborate on web projects.
 - 📫 How to reach me: use the profile email address.
 
